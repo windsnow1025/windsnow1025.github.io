@@ -1,0 +1,25 @@
+{
+  "name": "Yilu Yang",
+  "contacts": [
+    {
+      "type": "phone",
+      "label": "(323) 412-0118",
+      "url": "tel:+13234120118"
+    },
+    {
+      "type": "email",
+      "label": "windsnowid@gmail.com",
+      "url": "mailto:windsnowid@gmail.com"
+    },
+    {
+      "type": "linkedin",
+      "label": "linkedin.com/in/yiluyang",
+      "url": "https://linkedin.com/in/yiluyang"
+    },
+    {
+      "type": "github",
+      "label": "github.com/windsnow1025",
+      "url": "https://github.com/windsnow1025"
+    }
+  ]
+}

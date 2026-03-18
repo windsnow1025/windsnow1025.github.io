@@ -1,0 +1,18 @@
+[
+  {
+    "id": "columbia",
+    "name": "Columbia University in the City of New York",
+    "location": "New York, NY",
+    "degree": "MS in Computer Science, Machine Learning Track",
+    "period": "Sep 2025 – Dec 2026",
+    "gpa": "3.75 / 4.0"
+  },
+  {
+    "id": "usst",
+    "name": "University of Shanghai for Science and Technology",
+    "location": "Shanghai, China",
+    "degree": "BEng in Computer Science and Technology",
+    "period": "Sep 2021 – Jun 2025",
+    "gpa": "3.77 / 4.5"
+  }
+]

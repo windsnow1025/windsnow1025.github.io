@@ -1,0 +1,48 @@
+[
+  {
+    "id": "frameworks",
+    "label": "Frameworks",
+    "items": [
+      "PyTorch",
+      "Next.js",
+      "React",
+      "Nest.js",
+      "Spring Framework",
+      "FastAPI"
+    ]
+  },
+  {
+    "id": "languages",
+    "label": "Languages",
+    "items": [
+      "Java",
+      "Kotlin",
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "Redis",
+      "SQL"
+    ]
+  },
+  {
+    "id": "system",
+    "label": "System",
+    "items": [
+      "Linux",
+      "Nginx",
+      "Docker",
+      "Kubernetes"
+    ]
+  },
+  {
+    "id": "tools",
+    "label": "Tools",
+    "items": [
+      "Git",
+      "Postman",
+      "Selenium",
+      "GitHub Actions",
+      "Firebase"
+    ]
+  }
+]

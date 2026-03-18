@@ -1,0 +1,74 @@
+[
+  {
+    "owner": "windsnow1025",
+    "name": "LLM-Bridge",
+    "techStack": [
+      "Python",
+      "OpenAI SDK",
+      "Gemini SDK",
+      "Claude SDK",
+      "GitHub Actions"
+    ],
+    "publishUrl": "https://pypi.org/project/LLM-Bridge/"
+  },
+  {
+    "owner": "windsnow1025",
+    "name": "Markdown-LaTeX-Renderer",
+    "techStack": [
+      "TypeScript",
+      "GitHub Actions"
+    ],
+    "publishUrl": "https://www.npmjs.com/package/markdown-latex-renderer"
+  },
+  {
+    "owner": "windsnow1025",
+    "name": "Cloudflare-DDNS-CLI",
+    "techStack": [
+      "Python",
+      "Cloudflare API"
+    ],
+    "releasesUrl": "https://github.com/windsnow1025/Cloudflare-DDNS-CLI/releases"
+  },
+  {
+    "owner": "windsnow1025",
+    "name": "Cloudflare-DDNS-Desktop",
+    "techStack": [
+      "Electron",
+      "Next.js",
+      "React",
+      "Cloudflare SDK"
+    ],
+    "releasesUrl": "https://github.com/windsnow1025/Cloudflare-DDNS-Desktop/releases"
+  },
+  {
+    "owner": "windsnow1025",
+    "name": "UniWebPlatform",
+    "techStack": [
+      "Next.js",
+      "React",
+      "Node.js",
+      "MUI",
+      "Tailwind CSS",
+      "Nest.js",
+      "FastAPI",
+      "Python",
+      "PostgreSQL",
+      "MinIO",
+      "Redis",
+      "Firebase",
+      "Linux",
+      "Kubernetes",
+      "Docker",
+      "Nginx",
+      "GitHub Actions"
+    ],
+    "webUrl": "https://www.windsnow1025.com"
+  },
+  {
+    "owner": "windsnow1025",
+    "name": "LaTeX-Formulas",
+    "techStack": [
+      "LaTeX"
+    ]
+  }
+]
