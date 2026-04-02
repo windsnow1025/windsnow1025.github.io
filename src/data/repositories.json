@@ -22,26 +22,6 @@
   },
   {
     "owner": "windsnow1025",
-    "name": "Cloudflare-DDNS-CLI",
-    "techStack": [
-      "Python",
-      "Cloudflare API"
-    ],
-    "releasesUrl": "https://github.com/windsnow1025/Cloudflare-DDNS-CLI/releases"
-  },
-  {
-    "owner": "windsnow1025",
-    "name": "Cloudflare-DDNS-Desktop",
-    "techStack": [
-      "Electron",
-      "Next.js",
-      "React",
-      "Cloudflare SDK"
-    ],
-    "releasesUrl": "https://github.com/windsnow1025/Cloudflare-DDNS-Desktop/releases"
-  },
-  {
-    "owner": "windsnow1025",
     "name": "PolyFlexLLM",
     "techStack": [
       "Next.js",
@@ -66,9 +46,42 @@
   },
   {
     "owner": "windsnow1025",
+    "name": "Cloudflare-DDNS-Desktop",
+    "techStack": [
+      "Electron",
+      "Vite",
+      "React",
+      "MUI",
+      "Tailwind CSS",
+      "Cloudflare SDK"
+    ],
+    "releasesUrl": "https://github.com/windsnow1025/Cloudflare-DDNS-Desktop/releases"
+  },
+  {
+    "owner": "windsnow1025",
+    "name": "Cloudflare-DDNS-CLI",
+    "techStack": [
+      "Python",
+      "Cloudflare API"
+    ],
+    "releasesUrl": "https://github.com/windsnow1025/Cloudflare-DDNS-CLI/releases"
+  },
+  {
+    "owner": "windsnow1025",
     "name": "LaTeX-Formulas",
     "techStack": [
       "LaTeX"
+    ]
+  },
+  {
+    "owner": "windsnow1025",
+    "name": "Diluted-Cost-Calculator",
+    "techStack": [
+      "Python",
+      "Vite",
+      "React",
+      "MUI",
+      "Tailwind CSS"
     ]
   }
 ]
