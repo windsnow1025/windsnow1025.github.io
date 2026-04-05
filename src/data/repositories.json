@@ -46,7 +46,7 @@
   },
   {
     "owner": "windsnow1025",
-    "name": "Cloudflare-DDNS",
+    "name": "DDNS-Cloudflare",
     "techStack": [
       "Electron",
       "Vite",
@@ -55,7 +55,7 @@
       "Tailwind CSS",
       "Cloudflare SDK"
     ],
-    "releasesUrl": "https://github.com/windsnow1025/Cloudflare-DDNS/releases"
+    "releasesUrl": "https://github.com/windsnow1025/DDNS-Cloudflare/releases"
   },
   {
     "owner": "windsnow1025",
