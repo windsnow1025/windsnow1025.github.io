@@ -4,7 +4,7 @@ import PhoneIcon from "@mui/icons-material/Phone";
 import EmailIcon from "@mui/icons-material/Email";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import GitHubIcon from "@mui/icons-material/GitHub";
-import {getProfile} from "../lib/profile/ProfileService";
+import {getProfile} from "../../lib/profile/ProfileService.ts";
 import type {SvgIconComponent} from "@mui/icons-material";
 
 const contactIconMap: Record<string, SvgIconComponent> = {

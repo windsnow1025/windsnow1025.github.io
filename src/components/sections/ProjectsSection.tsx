@@ -11,11 +11,11 @@ import CodeIcon from "@mui/icons-material/Code";
 import LanguageIcon from "@mui/icons-material/Language";
 import InventoryIcon from "@mui/icons-material/Inventory";
 import DownloadIcon from "@mui/icons-material/Download";
-import {getGitHubRepos} from "../lib/github/GitHubService";
-import type {GitHubRepo} from "../lib/github/GitHub";
-import {SimpleIconSvg} from "./SkillsSection";
-import {iconMap} from "../lib/icon/IconMap";
-import {languageColorMap} from "../lib/icon/LanguageColorMap";
+import {getGitHubRepos} from "../../lib/github/GitHubService.ts";
+import type {GitHubRepo} from "../../lib/github/GitHub.ts";
+import {SimpleIconSvg} from "./SkillsSection.tsx";
+import {iconMap} from "../../lib/icon/IconMap.ts";
+import {languageColorMap} from "../../lib/icon/LanguageColorMap.ts";
 
 function ProjectsSection() {
   const [repos, setRepos] = useState<GitHubRepo[]>([]);

@@ -1,7 +1,7 @@
 import Typography from "@mui/material/Typography";
 import Chip from "@mui/material/Chip";
-import {getSkills} from "../lib/skill/SkillService";
-import {iconMap} from "../lib/icon/IconMap";
+import {getSkills} from "../../lib/skill/SkillService.ts";
+import {iconMap} from "../../lib/icon/IconMap.ts";
 
 function SimpleIconSvg({name, size = 16}: { name: string; size?: number }) {
   const icon = iconMap[name];
